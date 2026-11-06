@@ -22,7 +22,7 @@ DevStack is a modern and interactive web application that helps developers explo
 
 ### 3. Added Technology
 
-![Added Technology](./screenshots/grid.png)
+![Added Technology](./screenshots/grid.PNG)
 
 ---
 
